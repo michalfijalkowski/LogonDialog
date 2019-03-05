@@ -1,0 +1,2 @@
+# LogonDialog
+Okienko logowania
